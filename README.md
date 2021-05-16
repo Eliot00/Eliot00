@@ -1,5 +1,10 @@
 <h1 align="center">🦀 Elliot 🐍</h1>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Eliot00/count.svg" />
+</p>
+
 <div align="center">
 
 [![telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elliot_xu)
