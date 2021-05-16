@@ -2,7 +2,7 @@
 
 <div align="center>
 
-![visitors](https://komarev.com/ghpvc/?eliot00&color=blueviolet)
+![visitors](https://komarev.com/ghpvc/?Eliot00&color=blueviolet)
 
 </div>
 
