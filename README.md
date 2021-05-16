@@ -1,11 +1,5 @@
 <h1 align="center">🦀 Elliot 🐍</h1>
 
-<div align="center>
-
-![visitors](https://komarev.com/ghpvc/?Eliot00&color=blueviolet)
-
-</div>
-
 <div align="center">
 
 [![telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elliot_xu)
