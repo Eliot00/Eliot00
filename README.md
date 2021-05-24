@@ -12,6 +12,10 @@
 
 </div>
 
+<div align="center">
+  <a href="https://github.com/inherd"><img alt="inherd" width="100" height="100" src="https://raw.githubusercontent.com/inherd/arts/master/logo/logo.svg" /></a>
+</div>
+
 <p align="center">
   <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="CSharp" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
