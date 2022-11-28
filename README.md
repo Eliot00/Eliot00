@@ -10,7 +10,6 @@
 
 <div align="center">
 
-[![telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elliot_xu)
 [![blog](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://elliot00.com)
 
 </div>
