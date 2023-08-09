@@ -27,5 +27,5 @@
 
 <p align="center">
 <img height="200" alt="Elliot's github stats" src="https://github-readme-stats.vercel.app/api?username=Eliot00&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="200" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliot00&theme=tokyonight&exclude_repo=rime-holo" />
+<img height="200" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliot00&theme=tokyonight&exclude_repo=rime-holo&hide=mdx" />
 </p>
