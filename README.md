@@ -1,7 +1,7 @@
 <h1 align="center">🦀 Elliot 🐍</h1>
 
 <p align="center"> 
-  <a href="https://afdian.net/@Elliot?tab=home">
+  <a href="https://afdian.com/a/Elliot">
     <img src="https://img.shields.io/badge/%E8%B5%9E%E5%8A%A9-%E5%8F%91%E7%94%B5-critical?style=for-the-badge&logo=appveyor" />
   </a>
   <br />
